@@ -1,1 +1,1 @@
-# auto-amorph-chem
+# chemistry-ai-research-team
